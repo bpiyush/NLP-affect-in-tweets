@@ -1,0 +1,201 @@
+Length of vocabulary:  694025
+Using tfidf_training_words---------------------------------------------
+Neural Nets- Pearson Coefficient for train_anger_:  0.6083192704696097
+Neural Nets- Pearson Coefficient for train_anger_:  0.6281081005852959
+Neural Nets- Pearson Coefficient for train_anger_:  0.648874209699614
+Neural Nets- Pearson Coefficient for train_anger_:  0.5755109119790225
+Neural Nets- Pearson Coefficient for train_anger_:  0.6340106350257892
+--------------------------------------------
+Avg PC for train_anger_ with Neural Nets 0.6189646255518662
+--------------------------------------------
+Decision Tree- Pearson Coefficient for train_anger_:  0.45080831768379936
+Decision Tree- Pearson Coefficient for train_anger_:  0.4909882687254601
+Decision Tree- Pearson Coefficient for train_anger_:  0.4915681343260231
+Decision Tree- Pearson Coefficient for train_anger_:  0.4587404224612516
+Decision Tree- Pearson Coefficient for train_anger_:  0.49944046914129764
+--------------------------------------------
+Avg PC for train_anger_ with Decision Tree 0.47830912246756635
+--------------------------------------------
+Random Forests- Pearson Coefficient for train_anger_:  0.3229402465944057
+Random Forests- Pearson Coefficient for train_anger_:  0.3578397535728451
+Random Forests- Pearson Coefficient for train_anger_:  0.3012990229053198
+Random Forests- Pearson Coefficient for train_anger_:  0.2984754802474974
+Random Forests- Pearson Coefficient for train_anger_:  0.3687855741538725
+--------------------------------------------
+Avg PC for train_anger_ with Random Forests 0.3298680154947881
+--------------------------------------------
+K-NN- Pearson Coefficient for train_anger_:  0.25994787939090136
+K-NN- Pearson Coefficient for train_anger_:  0.33846939473834375
+K-NN- Pearson Coefficient for train_anger_:  0.4219598613767336
+K-NN- Pearson Coefficient for train_anger_:  0.39872010054448537
+K-NN- Pearson Coefficient for train_anger_:  0.3660836576682144
+--------------------------------------------
+Avg PC for train_anger_ with K-NN 0.3570361787437357
+--------------------------------------------
+ADA-Boost- Pearson Coefficient for train_anger_:  0.3447372033637916
+ADA-Boost- Pearson Coefficient for train_anger_:  0.2132089011692681
+ADA-Boost- Pearson Coefficient for train_anger_:  0.24872222184921827
+ADA-Boost- Pearson Coefficient for train_anger_:  0.27673350427886706
+ADA-Boost- Pearson Coefficient for train_anger_:  0.28618766953921837
+--------------------------------------------
+Avg PC for train_anger_ with ADA-Boost 0.27391790004007266
+--------------------------------------------
+Gradient-Boost- Pearson Coefficient for train_anger_:  0.5805446430822869
+Gradient-Boost- Pearson Coefficient for train_anger_:  0.5919671391932756
+Gradient-Boost- Pearson Coefficient for train_anger_:  0.625173560446854
+Gradient-Boost- Pearson Coefficient for train_anger_:  0.5554367774551819
+Gradient-Boost- Pearson Coefficient for train_anger_:  0.5831263539275228
+--------------------------------------------
+Avg PC for train_anger_ with Gradient-Boost 0.5872496948210243
+--------------------------------------------
+Neural Nets- Pearson Coefficient for train_fear_:  0.6520967051355162
+Neural Nets- Pearson Coefficient for train_fear_:  0.6081170446872461
+Neural Nets- Pearson Coefficient for train_fear_:  -0.02265921564790546
+Neural Nets- Pearson Coefficient for train_fear_:  0.715514110443596
+Neural Nets- Pearson Coefficient for train_fear_:  -0.09345212432518629
+--------------------------------------------
+Avg PC for train_fear_ with Neural Nets 0.3719233040586533
+--------------------------------------------
+Decision Tree- Pearson Coefficient for train_fear_:  0.5499617543881457
+Decision Tree- Pearson Coefficient for train_fear_:  0.4251211958254423
+Decision Tree- Pearson Coefficient for train_fear_:  0.5015441054780029
+Decision Tree- Pearson Coefficient for train_fear_:  0.5329296587214729
+Decision Tree- Pearson Coefficient for train_fear_:  0.471229296269714
+--------------------------------------------
+Avg PC for train_fear_ with Decision Tree 0.4961572021365555
+--------------------------------------------
+Random Forests- Pearson Coefficient for train_fear_:  0.3819080987266522
+Random Forests- Pearson Coefficient for train_fear_:  0.24320793087222772
+Random Forests- Pearson Coefficient for train_fear_:  0.37409439991722016
+Random Forests- Pearson Coefficient for train_fear_:  0.45080700292448056
+Random Forests- Pearson Coefficient for train_fear_:  0.345332933758491
+--------------------------------------------
+Avg PC for train_fear_ with Random Forests 0.3590700732398143
+--------------------------------------------
+K-NN- Pearson Coefficient for train_fear_:  0.25840635761004305
+K-NN- Pearson Coefficient for train_fear_:  0.23129290516156367
+K-NN- Pearson Coefficient for train_fear_:  0.2613654643063343
+K-NN- Pearson Coefficient for train_fear_:  0.2843487864604866
+K-NN- Pearson Coefficient for train_fear_:  0.2978152820382616
+--------------------------------------------
+Avg PC for train_fear_ with K-NN 0.26664575911533783
+--------------------------------------------
+ADA-Boost- Pearson Coefficient for train_fear_:  0.3755250044723602
+ADA-Boost- Pearson Coefficient for train_fear_:  0.26215145560593794
+ADA-Boost- Pearson Coefficient for train_fear_:  0.3876614657525158
+ADA-Boost- Pearson Coefficient for train_fear_:  0.42143214236514387
+ADA-Boost- Pearson Coefficient for train_fear_:  0.3809668044869186
+--------------------------------------------
+Avg PC for train_fear_ with ADA-Boost 0.36554737453657526
+--------------------------------------------
+Gradient-Boost- Pearson Coefficient for train_fear_:  0.5889661482110266
+Gradient-Boost- Pearson Coefficient for train_fear_:  0.5241744254854757
+Gradient-Boost- Pearson Coefficient for train_fear_:  0.5787956528893428
+Gradient-Boost- Pearson Coefficient for train_fear_:  0.6189004168558736
+Gradient-Boost- Pearson Coefficient for train_fear_:  0.5623459302166706
+--------------------------------------------
+Avg PC for train_fear_ with Gradient-Boost 0.5746365147316779
+--------------------------------------------
+Neural Nets- Pearson Coefficient for train_joy_:  0.6640623284972181
+Neural Nets- Pearson Coefficient for train_joy_:  0.7122224905392207
+Neural Nets- Pearson Coefficient for train_joy_:  0.5746071177903701
+Neural Nets- Pearson Coefficient for train_joy_:  0.6216601798405336
+Neural Nets- Pearson Coefficient for train_joy_:  0.5756518819705952
+--------------------------------------------
+Avg PC for train_joy_ with Neural Nets 0.6296407997275876
+--------------------------------------------
+Decision Tree- Pearson Coefficient for train_joy_:  0.39189738154286685
+Decision Tree- Pearson Coefficient for train_joy_:  0.4951421938727689
+Decision Tree- Pearson Coefficient for train_joy_:  0.374477612034594
+Decision Tree- Pearson Coefficient for train_joy_:  0.37317162470118065
+Decision Tree- Pearson Coefficient for train_joy_:  0.3323098320656568
+--------------------------------------------
+Avg PC for train_joy_ with Decision Tree 0.39339972884341345
+--------------------------------------------
+Random Forests- Pearson Coefficient for train_joy_:  0.32536074616630256
+Random Forests- Pearson Coefficient for train_joy_:  0.3602075996835186
+Random Forests- Pearson Coefficient for train_joy_:  0.2573562227224313
+Random Forests- Pearson Coefficient for train_joy_:  0.26967560570959626
+Random Forests- Pearson Coefficient for train_joy_:  0.3425873764228521
+--------------------------------------------
+Avg PC for train_joy_ with Random Forests 0.3110375101409401
+--------------------------------------------
+K-NN- Pearson Coefficient for train_joy_:  0.398311621954298
+K-NN- Pearson Coefficient for train_joy_:  0.3164710266988957
+K-NN- Pearson Coefficient for train_joy_:  0.17114635062792158
+K-NN- Pearson Coefficient for train_joy_:  0.2794632976137547
+K-NN- Pearson Coefficient for train_joy_:  0.25299364696709714
+--------------------------------------------
+Avg PC for train_joy_ with K-NN 0.2836771887723934
+--------------------------------------------
+ADA-Boost- Pearson Coefficient for train_joy_:  0.2421358724980477
+ADA-Boost- Pearson Coefficient for train_joy_:  0.26683244642333653
+ADA-Boost- Pearson Coefficient for train_joy_:  0.32167962722682847
+ADA-Boost- Pearson Coefficient for train_joy_:  0.29676645586952605
+ADA-Boost- Pearson Coefficient for train_joy_:  0.27557543303007426
+--------------------------------------------
+Avg PC for train_joy_ with ADA-Boost 0.2805979670095626
+--------------------------------------------
+Gradient-Boost- Pearson Coefficient for train_joy_:  0.5625075368580776
+Gradient-Boost- Pearson Coefficient for train_joy_:  0.5859851764961621
+Gradient-Boost- Pearson Coefficient for train_joy_:  0.47177160469110113
+Gradient-Boost- Pearson Coefficient for train_joy_:  0.5229863755905393
+Gradient-Boost- Pearson Coefficient for train_joy_:  0.5175776253037503
+--------------------------------------------
+Avg PC for train_joy_ with Gradient-Boost 0.5321656637879262
+--------------------------------------------
+Neural Nets- Pearson Coefficient for train_sadness_:  0.6088259265564149
+Neural Nets- Pearson Coefficient for train_sadness_:  0.6728362907705179
+Neural Nets- Pearson Coefficient for train_sadness_:  0.6187683947878307
+Neural Nets- Pearson Coefficient for train_sadness_:  0.6104893521566298
+Neural Nets- Pearson Coefficient for train_sadness_:  0.6261281261907193
+--------------------------------------------
+Avg PC for train_sadness_ with Neural Nets 0.6274096180924225
+--------------------------------------------
+Decision Tree- Pearson Coefficient for train_sadness_:  0.5264797775370863
+Decision Tree- Pearson Coefficient for train_sadness_:  0.5335976633882565
+Decision Tree- Pearson Coefficient for train_sadness_:  0.4394819026435294
+Decision Tree- Pearson Coefficient for train_sadness_:  0.49646125720411427
+Decision Tree- Pearson Coefficient for train_sadness_:  0.5461282687470318
+--------------------------------------------
+Avg PC for train_sadness_ with Decision Tree 0.5084297739040037
+--------------------------------------------
+Random Forests- Pearson Coefficient for train_sadness_:  0.3962503983008073
+Random Forests- Pearson Coefficient for train_sadness_:  0.3860849933365168
+Random Forests- Pearson Coefficient for train_sadness_:  0.3609875647141062
+Random Forests- Pearson Coefficient for train_sadness_:  0.4393622834736561
+Random Forests- Pearson Coefficient for train_sadness_:  0.3704481934454305
+--------------------------------------------
+Avg PC for train_sadness_ with Random Forests 0.3906266866541034
+--------------------------------------------
+K-NN- Pearson Coefficient for train_sadness_:  0.30938935414025825
+K-NN- Pearson Coefficient for train_sadness_:  0.32280589472474175
+K-NN- Pearson Coefficient for train_sadness_:  0.27103242542447387
+K-NN- Pearson Coefficient for train_sadness_:  0.3585310282538607
+K-NN- Pearson Coefficient for train_sadness_:  0.23022632955471647
+--------------------------------------------
+Avg PC for train_sadness_ with K-NN 0.2983970064196102
+--------------------------------------------
+ADA-Boost- Pearson Coefficient for train_sadness_:  0.4508660403113722
+ADA-Boost- Pearson Coefficient for train_sadness_:  0.3999669836969551
+ADA-Boost- Pearson Coefficient for train_sadness_:  0.3263062124860029
+ADA-Boost- Pearson Coefficient for train_sadness_:  0.4002367249976998
+ADA-Boost- Pearson Coefficient for train_sadness_:  0.30959036996107697
+--------------------------------------------
+Avg PC for train_sadness_ with ADA-Boost 0.37739326629062137
+--------------------------------------------
+Gradient-Boost- Pearson Coefficient for train_sadness_:  0.6208020921176366
+Gradient-Boost- Pearson Coefficient for train_sadness_:  0.6487742622389556
+Gradient-Boost- Pearson Coefficient for train_sadness_:  0.571724630073742
+Gradient-Boost- Pearson Coefficient for train_sadness_:  0.6156111341360442
+Gradient-Boost- Pearson Coefficient for train_sadness_:  0.6419675844229716
+--------------------------------------------
+Avg PC for train_sadness_ with Gradient-Boost 0.61977594059787
+--------------------------------------------
+[[0.61896463 0.3719233  0.6296408  0.62740962]
+ [0.47830912 0.4961572  0.39339973 0.50842977]
+ [0.32986802 0.35907007 0.31103751 0.39062669]
+ [0.35703618 0.26664576 0.28367719 0.29839701]
+ [0.2739179  0.36554737 0.28059797 0.37739327]
+ [0.58724969 0.57463651 0.53216566 0.61977594]]
+[0.56198459 0.46907396 0.34765057 0.30143903 0.32436413 0.57845695]
